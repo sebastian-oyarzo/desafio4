@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;500&display=swap');
+*{
+    font-family: 'Roboto', sans-serif, 'Times New Roman', Times, serif;
+    font-weight: 300;
+}
+.card-title
+{
+    font-weight: 300;
+}
+p
+{
+    font-weight: 300;
+}
+.direccion
+{
+    color: #707070;
+}
+.precio-anterior
+{
+    color: #707070;
+}
+.precio-nuevo
+{
+    color: #30AA4C;
+    font-weight: 500;
+}
+h5
+{
+    color: #707070;
+    font-weight: 300;
+}
+h6
+{
+    color: #707070;
+    font-weight: 300;
+}
+.form-control
+{
+    font-weight: 300;
+}
+.logo-black
+{
+    width: 82px;
+    height: 24px;
+}
